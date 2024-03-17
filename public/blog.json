@@ -1,52 +1,56 @@
 [
    {
       "Id": "001",
-      "cover": "https://example.com/cover1.jpg",
+      "cover": "https://imagizer.imageshack.com/img922/6604/K7oRPL.jpg",
       "title": "The Shadow of the Wind",
       "author": "Carlos Ruiz Zafón",
-      "author-img": "https://example.com/author1.jpg",
-      "posted-date": "2024-03-17",
-      "reading-time": 60,
-      "hashtag": ["mystery", "historical fiction", "Barcelona"]
+      "author_img": "https://imagizer.imageshack.com/img923/4746/sPk51V.png",
+      "posted_date": "2024-03-17",
+      "reading_time": 60,
+      "hashtag": ["mystery", "historical_fiction", "Barcelona"]
    },
+
    {
       "Id": "002",
-      "cover": "https://example.com/cover2.jpg",
+      "cover": "https://imagizer.imageshack.com/img924/3582/sumQxB.png",
       "title": "The Alchemist",
       "author": "Paulo Coelho",
-      "author-img": "https://example.com/author2.jpg",
-      "posted-date": "2024-03-16",
-      "reading-time": 45,
-      "hashtag": ["philosophical", "adventure", "personal legend"]
+      "author_img": "https://imagizer.imageshack.com/img922/7691/QtOylr.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 45,
+      "hashtag": ["philosophical", "adventure", "personal_legend"]
    },
+
    {
       "Id": "003",
-      "cover": "https://example.com/cover3.jpg",
+      "cover": "https://imagizer.imageshack.com/img923/8730/zUJ5SG.png",
       "title": "The Hunger Games",
       "author": "Suzanne Collins",
-      "author-img": "https://example.com/author3.jpg",
-      "posted-date": "2024-03-15",
-      "reading-time": 50,
-      "hashtag": ["dystopian", "young adult", "survival"]
+      "author_img": "https://imagizer.imageshack.com/img922/7407/JQLN4G.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 50,
+      "hashtag": ["dystopian", "young_adult", "survival"]
    },
+
    {
       "Id": "004",
-      "cover": "https://example.com/cover4.jpg",
+      "cover": "https://imagizer.imageshack.com/img923/1048/7AQxLV.jpg",
       "title": "Harry Potter and the Sorcerer's Stone",
       "author": "J.K. Rowling",
-      "author-img": "https://example.com/author4.jpg",
-      "posted-date": "2024-03-14",
-      "reading-time": 55,
-      "hashtag": ["fantasy", "magic", "wizarding world"]
+      "author_img": "https://imagizer.imageshack.com/img922/4230/Gl1ASe.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 55,
+      "hashtag": ["fantasy", "magic", "wizarding_world"]
    },
+
    {
       "Id": "005",
-      "cover": "https://example.com/cover5.jpg",
+      "cover": "https://imagizer.imageshack.com/img922/6604/K7oRPL.jpg",
       "title": "The Hitchhiker's Guide to the Galaxy",
       "author": "Douglas Adams",
-      "author-img": "https://example.com/author5.jpg",
-      "posted-date": "2024-03-13",
-      "reading-time": 65,
-      "hashtag": ["science fiction", "humor", "space"]
+      "author_img": "https://imagizer.imageshack.com/img923/2064/ezW52B.png",
+      "posted_date": "2024-03-13",
+      "reading_time": 65,
+      "hashtag": ["science_fiction", "humor", "space"]
    }
 ]
